@@ -27,6 +27,6 @@ Fique ligado(a) nos nossos canais para não perder nenhuma atualização, worksh
 
 ## ❓ Dúvidas ou Quer Saber Mais?
 
-Abra uma *Issue* aqui no GitHub ou entre em contato com a gente por qualquer um dos canais acima.
+Abra uma ***Issue*** aqui no GitHub no canal de ***Discussion*** ou entre em contato com a gente por qualquer um dos canais acima.
 
 **Bem-vindo(a) ao Space Apps Recife!** 🌟
