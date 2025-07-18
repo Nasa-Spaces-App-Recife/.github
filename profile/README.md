@@ -2,7 +2,7 @@
 
 É uma alegria imensa ter você por aqui! Esta é a casa do **NASA International Space Apps Challenge** em Recife.
 
-O **Space Apps** é muito mais que um evento — é uma maratona global de 48 horas onde a gente se encontra para construir o futuro. Aqui em Recife, nossa comunidade se une a tecnólogos, cientistas, engenheiros e criativos de todas as áreas para transformar dados abertos da NASA em soluções tangíveis para desafios do nosso planeta e do espaço.
+O **Space Apps** é muito mais que um evento, é uma maratona global de 48 horas onde a gente se encontra para construir o futuro. Aqui em Recife, nossa comunidade se une a tecnólogos, cientistas, engenheiros e criativos de todas as áreas para transformar dados abertos da NASA em soluções tangíveis para desafios do nosso planeta e do espaço.
 
 🌍🚀 Há mais de 12 anos, a própria incubadora da NASA impulsiona este movimento que acontece ao redor do mundo.  
 Se você tem ideias, vontade de aprender e paixão por tecnologia e ciência, **seu lugar é aqui**.  
